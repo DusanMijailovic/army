@@ -1,0 +1,4 @@
+ErrorDocument 404 http://localhost:8080/armyblog/index.php?page=404
+ErrorDocument 403 http://localhost:8080/armyblog/index.php?page=403
+
+#IndexIgnore *

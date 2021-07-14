@@ -1,0 +1,15 @@
+SMTP Error: Could not connect to SMTP host.	11.06.2020 19:27:15
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:20:00
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:20:12
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:26:56
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:27:22
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:28:13
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:28:40
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:28:51
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:29:17
+SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting	12.06.2020 00:31:48
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:32:19
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:32:36
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:35:07
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:35:19
+SMTP Error: Could not connect to SMTP host.	12.06.2020 00:35:42

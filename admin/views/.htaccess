@@ -1,0 +1,9 @@
+Order Allow,Deny
+Deny from All
+
+
+<FilesMatch "^logout\.php$">
+Allow from all
+</FilesMatch>
+
+

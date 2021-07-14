@@ -1,0 +1,60 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card-header,
+.btn-black {
+	background: #000000 !important;
+}
+
+
+.btn-dark-green {
+	background: #006400 !important;
+}
+
+.btn-dark-green:hover{	
+	background: #008000 !important;
+}
+
+.hover-icon:hover,
+.color-text{
+	color: #efa48d !important;
+}
+
+.hover-icon {
+	color: #555 !important;
+}
+
+.page-link {
+	color: #000 !important;
+}
+
+.page-item.active .page-link {
+	color: #fff !important;
+	background-color: #008000 !important;
+}
+
+.img-thumbnail {
+	color: #efa48d !important;
+}
+
+.img-size {
+    height: auto;
+    width: 100%;
+}
+
+.page-item.active .page-link {
+	border-color: #fff !important;
+}
+
+.auto{
+	font-size: 120%;
+	
+
+}
